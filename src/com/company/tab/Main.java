@@ -1,11 +1,10 @@
-package com.company;
+package com.company.tab;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
 public class Main {
-
     public static void main(String[] args) {
 
         ArrayList<Integer> arrayList = new ArrayList<>();
@@ -33,7 +32,4 @@ public class Main {
 
 
     }
-
 }
-
-
